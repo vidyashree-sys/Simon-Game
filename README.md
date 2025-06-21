@@ -22,7 +22,7 @@ The Simon Game is a simple yet fun memory game where the player has to repeat a 
 
 - HTML5
 - CSS3
-- JavaScript (Vanilla JS)
+- JavaScript
 
 ---
 
